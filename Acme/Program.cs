@@ -1,15 +1,12 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace Acme
+class Program
 {
-    class Program
+    static void Main()
     {
-        static void Main(string[] args)
-        {
-        }
+        Console.WriteLine("Welcome to Acme accounting Systems");
+        Console.WriteLine("Remember, we're \"accounting\" on you!");
+        Console.Read();
     }
 }
+
