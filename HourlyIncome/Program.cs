@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace HourlyIncome
 {
@@ -20,7 +16,7 @@ namespace HourlyIncome
             double hourlyRate1 = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("Hours worked per week?");
             double hoursWorked1 = Convert.ToDouble(Console.ReadLine());
-            double annualSalary1 = hourlyRate1 * hoursWorked1 * 52;
+            double annualSalary1 = hourlyRate1 * hoursWorked1 * 52.0;
 
             // It must then print “Person 2” to the screen and get the following details:
             // Hourly rate, Hours worked per week
@@ -29,7 +25,7 @@ namespace HourlyIncome
             double hourlyRate2 = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("Hours worked per week?");
             double hoursWorked2 = Convert.ToDouble(Console.ReadLine());
-            double annualSalary2 = hourlyRate2 * hoursWorked2 * 52;
+            double annualSalary2 = hourlyRate2 * hoursWorked2 * 52.0;
 
             // It must then print to the screen “Annual salary of Person 1:” and write the exact salary below it.
             // It must then print to the screen “Annual salary of Person 2:” and write the exact salary below it.
