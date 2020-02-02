@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Acme", "Acme\Acme.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariablesAndDataTypes", "VariablesAndDataTypes\VariablesAndDataTypes.csproj", "{BF5DD61C-4282-4208-9929-D3344A8CAB1C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathAndComparisonOperators", "MathAndComparisonOperators\MathAndComparisonOperators.csproj", "{EBDEE838-8ECD-4EB6-88AB-605A0E5538AC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{BF5DD61C-4282-4208-9929-D3344A8CAB1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF5DD61C-4282-4208-9929-D3344A8CAB1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF5DD61C-4282-4208-9929-D3344A8CAB1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBDEE838-8ECD-4EB6-88AB-605A0E5538AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBDEE838-8ECD-4EB6-88AB-605A0E5538AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBDEE838-8ECD-4EB6-88AB-605A0E5538AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBDEE838-8ECD-4EB6-88AB-605A0E5538AC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
