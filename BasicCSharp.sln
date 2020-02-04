@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Branching", "Branching\Bran
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops", "Loops\Loops.csproj", "{75A2D189-01FB-4C84-BEC4-437E528F10AB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringPractice", "StringPractice\StringPractice.csproj", "{FFC81DC4-615B-4BB4-991F-36617664775A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{75A2D189-01FB-4C84-BEC4-437E528F10AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75A2D189-01FB-4C84-BEC4-437E528F10AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75A2D189-01FB-4C84-BEC4-437E528F10AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFC81DC4-615B-4BB4-991F-36617664775A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFC81DC4-615B-4BB4-991F-36617664775A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFC81DC4-615B-4BB4-991F-36617664775A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFC81DC4-615B-4BB4-991F-36617664775A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
